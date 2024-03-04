@@ -28,23 +28,3 @@ Install OpenCV:
 OpenCV is used for image processing tasks.
 You can install OpenCV via pre-built binaries or build it from source.
 Visit OpenCV's official site for download and installation instructions.
-Setup and Installation
-After installing the prerequisites, clone the repository to your local machine:
-
-bash
-Copy code
-git clone https://github.com/yourusername/GaussianBlurUsingCUDA.git
-Follow the instructions in the INSTALL.md file for detailed setup and installation steps for both Python and C++ environments.
-
-Usage
-Refer to the USAGE.md file for instructions on how to use the application in both Python and C++ environments.
-
-Contributing
-Contributions to the GaussianBlurUsingCUDA project are welcome. Please refer to the CONTRIBUTING.md file for contribution guidelines.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Support
-For support, please open an issue in the GitHub repository or contact the maintainers directly.
-
